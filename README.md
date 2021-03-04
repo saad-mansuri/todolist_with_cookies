@@ -1,3 +1,3 @@
 # todolist_with_javaScript
-task store in cookies
-also with jdoc and gulp
+task data store in cookies.
+jdoc and gulp completed
